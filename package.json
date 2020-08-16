@@ -1,0 +1,25 @@
+{
+  "name": "passless",
+  "version": "1.0.0",
+  "description": "A password checker without the need of a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelalm/passless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelalm/passless/issues"
+  },
+  "homepage": "https://github.com/kelalm/passless#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
